@@ -4,6 +4,9 @@
 </p>
 
 <!--# 👋 Hello, I'm Ganesh Unhale -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F779DC&width=450&lines=Frontend+Developer+%7C+React+Lover;MERN+Stack+Enthusiast;Passionate+about+Web+Development" alt="Typing SVG" />
+</p>
 
 ### 💻 Frontend Developer | MERN Stack Enthusiast   
 📍 Mumbai, India | 🕑 2.5+ years of experience
@@ -79,7 +82,15 @@ Check out some of my learning repositories:
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
 
 ---
+<!--
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ganeshunhale&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+---
+-->
+<p align="center"> <img src="https://streak-stats.demolab.com?user=ganeshunhale&theme=radical&border_radius=4.5" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshunhale&layout=compact&theme=radical" alt="Top Langs" /> </p>
 
+---
 
 ### 📫 Connect With Me
 
