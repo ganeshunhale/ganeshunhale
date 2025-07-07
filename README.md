@@ -5,20 +5,20 @@
 
 <!--# 👋 Hello, I'm Ganesh Unhale -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F779DC&width=450&lines=Frontend+Developer+%7C+React+Lover;MERN+Stack+Enthusiast;Passionate+about+Web+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F779DC&width=450&lines=Software+Developer+%7C+Frontend+Developer;MERN+Stack+Developer;Passionate+about+Web+Development" alt="Typing SVG" />
 </p>
 
-### 💻 Frontend Developer | MERN Stack Enthusiast   
-📍 Mumbai, India | 🕑 2.5+ years of experience
+### 💻 Software Developer | Frontend Developer | MERN Stack    
+📍 Mumbai, India | 🕑 nearly 3 years of experience
 
 ---
 
 ### 🧠 About Me
 
-I'm a passionate Frontend Developer focused on building fast, clean, and responsive web applications.  
-With experience in **React.js**, **Redux**, and modern UI libraries, I love solving real-world problems through code and creating meaningful user experiences.
-
-Currently, I'm expanding my skills into full-stack development with the **MERN stack** and **Next.js**, and exploring backend concepts with **Node.js**, **Express**, and **MongoDB**. I'm also delving into **Java** to broaden my programming knowledge.
+Software Developer with nearly 3 years of experience designing and developing scalable systems, real-time platforms, and high
+performance web applications. Proficient in JavaScript, React.js, Next.js, and the MERN stack, with strong expertise in state 
+management, API integration, and performance optimization. Proven ability to collaborate across teams, and deliver robust solutions 
+in fintech and e-commerce domains.
 
 ---
 
@@ -35,22 +35,29 @@ Currently, I'm expanding my skills into full-stack development with the **MERN s
 - **MeetSpace**  
   Video calling platform with screen sharing  
   `React | PeerJS | WebRTC`
+  
+- **CodeThrift**  
+  Browser-based editor that syncs code & text across browsers in real time via a shareable URL  
+  `React | Next.js | Node.js | Express | MongoDB | WebSocket`
 
 - **Portfolio Website**  
   Showcasing my work, skills, and journey  
-  `React.js | TailwindCSS | AOS | Type Animation`
+  `React.js | Next.js | TailwindCSS | AOS | Type Animation`
 
 ---
 
-### 🧪 Learning & Practice
+### 🌟 Technologies I Work With
 
-Check out some of my learning repositories:
-
-- 🌱 **Node.js & Express APIs** – Backend projects and RESTful APIs
-- 🌿 **MongoDB Integration** – CRUD applications and data modeling
-- 🚀 **MERN Stack Projects** – Full-stack applications
-- ⚡ **Next.js Explorations** – Server-side rendering and routing
-- ☕ **Java Basics** – Core Java practice
+Here’s how I use my core skills and technologies:
+- 🌱 **React, JavaScript & TypeScript** – Building dynamic, interactive UIs and scalable single-page applications (SPAs).
+- 🌿 **HTML5 & CSS3** – Crafting responsive, accessible, and visually appealing web layouts.
+- 🚀 **UI Libraries (Bootstrap, Material-UI, Ant Design)** – Creating modern, fast, and consistent interfaces with reusable components.
+- ⚡ **Ag-Grid & Chart.js** – Developing interactive data tables and visualizations for analytics dashboards.
+- 🔥 **Redux & Context API** – Managing global application state for complex frontend workflows.
+- 🌐 **Next.js** – Building SEO-friendly, server-side rendered applications with API routes and dynamic routing.
+- 🛠️ **Node.js & Express** – Developing scalable backend APIs and handling server-side logic.
+- 🗄️ **MongoDB** – Designing schemas, implementing CRUD operations, and managing database performance.
+- ☕ **Java** – Exploring OOP concepts to expand backend development capabilities.
 
 ---
 
@@ -74,7 +81,7 @@ Check out some of my learning repositories:
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat-square)
 ![Context API](https://img.shields.io/badge/-Context%20API-61DAFB?logo=react&logoColor=white&style=flat-square)
 
-**Backend & Tools (Learning)**  
+**Backend & Tools **  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
