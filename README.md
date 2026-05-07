@@ -105,7 +105,7 @@ Here’s how I use my core skills and technologies:
 
 📧 [ganesh.unhale.55@gmail.com](mailto:ganesh.unhale.55@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/real-ganesh-unhale)  
-🌐 [Portfolio](https://www.ganeshunhale.site)
+🌐 [Portfolio](https://www.ganeshunhale.website)
 
 ---
 
